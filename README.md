@@ -1,11 +1,11 @@
 # 🔗 PhishURL - Phishing URL and Message Scanner
 
-**Student:** Muhammad Abdullah Aamir
+**Student:** Muhammad Abdullah Aamir · **Internship:** ZYNVEX Solutions · **ID:** ZYNVEX-CERT-1681 · **Week 04 - Phishing Detection**
 
 | | |
 |---|---|
 | 🌐 **Live demo** | https://phishurl-abdullah.streamlit.app/ |
-| 📄 **Final report** | [Project Report (PDF)](docs/Project_Report.pdf) |
+| 📄 **Project report** | [Project Report (PDF)](docs/Project%20Report.pdf) |
 | 💻 **Source code** | https://github.com/abdullah-aesthetics/PhishURL |
 | 📊 **Dataset** | [Phishing Url by Hemanth Pingali (Kaggle)](https://www.kaggle.com/datasets/hemanthpingali/phishing-url) |
 
@@ -100,7 +100,7 @@ The response contains `verdict`, `level`, `risk`, `ml_probability` and a list of
 4. Browse normally: the badge shows **OK** (green), **!** (amber) or **!!** (red). Click the icon for the verdict and reasons.
 
 Only the page URL is sent, to your own local API, never the page content. The dashboard is hosted online, but the API
-and extension run locally, so they are shown in the demo video.
+and extension run locally, so they are shown in the demo video and in the project report.
 
 ## Usage
 1. **URL scanner:** paste a link or click an example in the sidebar, then press **Scan URL**.
@@ -111,13 +111,9 @@ and extension run locally, so they are shown in the demo video.
 
 ### Screenshots
 
-**Live deployment on Streamlit Cloud**
-
-![Live app](docs/screenshots/Screenshot%202026-10-18%20124106.png)
-
 **Home page and URL scanner**
 
-![Home](docs/screenshots/Screenshot%202026-10-18%20121018.png)
+![Home page](docs/screenshots/Screenshot%202026-10-18%20121018.png)
 
 **Phishing URL: High risk with reasons**
 
@@ -155,13 +151,7 @@ and extension run locally, so they are shown in the demo video.
 
 ![API scan](docs/screenshots/Screenshot%202026-10-18%20121918.png)
 
-**Extension on a safe site (green badge)**
-
-![Extension safe](docs/screenshots/Screenshot%202026-10-18%20122004.png)
-
-**Extension on a suspicious page (red badge)**
-
-![Extension flagged](docs/screenshots/Screenshot%202026-10-18%20122131.png)
+The live-deployment and browser-extension screenshots are in the [project report](docs/Project%20Report.pdf).
 
 ## Dataset
 **Phishing Url - A Dataset for Phishing Detection** by Hemanth Pingali (Kaggle), licence CC BY-NC-SA 4.0
@@ -250,7 +240,7 @@ phishurl/          features.py (URL features and reasons) · model.py (training,
 extension/         Chrome extension (manifest.json, background.js, popup.html, popup.js)
 models/            model.joblib, metrics.json
 tests/             pytest suite
-docs/              PhishURL_Final_Report.pdf, screenshots/
+docs/              Project Report.pdf, screenshots/
 .streamlit/        Dark theme configuration
 ```
 
