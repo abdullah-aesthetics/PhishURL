@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | 🌐 **Live demo** | https://phishurl-abdullah.streamlit.app/ |
-| 📄 **Final report** | [PhishURL Final Report (PDF)](docs/Project_Report.pdf) |
+| 📄 **Final report** | [Project Report (PDF)](docs/Project_Report.pdf) |
 | 💻 **Source code** | https://github.com/abdullah-aesthetics/PhishURL |
 | 📊 **Dataset** | [Phishing Url by Hemanth Pingali (Kaggle)](https://www.kaggle.com/datasets/hemanthpingali/phishing-url) |
 
