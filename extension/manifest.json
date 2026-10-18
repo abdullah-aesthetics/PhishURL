@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "PhishURL Shield",
+  "version": "1.0",
+  "description": "Warns you about phishing links using the PhishURL API.",
+  "permissions": ["tabs"],
+  "host_permissions": ["http://localhost:8000/*", "http://127.0.0.1:8000/*"],
+  "action": {"default_popup": "popup.html", "default_title": "PhishURL Shield"},
+  "background": {"service_worker": "background.js"}
+}

@@ -1,0 +1,21 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><style>
+body{width:340px;margin:0;padding:14px;background:#0a0f14;color:#d7e3dc;font-family:system-ui,sans-serif}
+h1{font-size:16px;margin:0 0 8px;color:#3dffa0}
+#url{font-family:monospace;font-size:11px;opacity:.65;word-break:break-all;margin-bottom:10px}
+#verdict{font-size:20px;font-weight:700;margin:6px 0}
+.track{height:10px;background:#1b2630;border-radius:6px;overflow:hidden}
+#fill{height:100%;width:0;transition:width .8s ease}
+#reasons{list-style:none;padding:0;margin:12px 0 0;font-size:12px}
+#reasons li{padding:6px 8px;margin-bottom:5px;background:#111a21;border-left:3px solid #6b7280;border-radius:4px}
+.high{border-color:#ff4d5e!important}.medium{border-color:#ffb020!important}.low{border-color:#ffe08a!important}
+small{opacity:.5}
+</style></head><body>
+<h1>🛡️ PhishURL Shield</h1>
+<div id="url">Checking current page...</div>
+<div id="verdict"></div>
+<div class="track"><div id="fill"></div></div>
+<ul id="reasons"></ul>
+<small>Needs the API running: uvicorn api:app --port 8000</small>
+<script src="popup.js"></script>
+</body></html>
