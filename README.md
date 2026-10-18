@@ -113,43 +113,43 @@ and extension run locally, so they are shown in the demo video and in the projec
 
 **Home page and URL scanner**
 
-![Home page](docs/screenshots/Screenshot%202026-10-18%20121018.png)
+![Home page](docs/Screenshots/Screenshot%202026-10-18%20121018.png)
 
 **Phishing URL: High risk with reasons**
 
-![Phishing result](docs/screenshots/Screenshot%202026-10-18%20121054.png)
+![Phishing result](docs/Screenshots/Screenshot%202026-10-18%20121054.png)
 
 **Legitimate URL: Low risk**
 
-![Legitimate result](docs/screenshots/Screenshot%202026-10-18%20121117.png)
+![Legitimate result](docs/Screenshots/Screenshot%202026-10-18%20121117.png)
 
 **Session history**
 
-![Session history](docs/screenshots/Screenshot%202026-10-18%20121254.png)
+![Session history](docs/Screenshots/Screenshot%202026-10-18%20121254.png)
 
 **Message scanner (parcel scam SMS)**
 
-![Message scanner](docs/screenshots/Screenshot%202026-10-18%20121408.png)
+![Message scanner](docs/Screenshots/Screenshot%202026-10-18%20121408.png)
 
 **Batch scan**
 
-![Batch scan](docs/screenshots/Screenshot%202026-10-18%20121613.png)
+![Batch scan](docs/Screenshots/Screenshot%202026-10-18%20121613.png)
 
 **Model performance**
 
-![Model performance](docs/screenshots/Screenshot%202026-10-18%20121706.png)
+![Model performance](docs/Screenshots/Screenshot%202026-10-18%20121706.png)
 
 **Confusion matrices**
 
-![Confusion matrices](docs/screenshots/Screenshot%202026-10-18%20121737.png)
+![Confusion matrices](docs/Screenshots/Screenshot%202026-10-18%20121737.png)
 
 **REST API documentation**
 
-![API docs](docs/screenshots/Screenshot%202026-10-18%20121824.png)
+![API docs](docs/Screenshots/Screenshot%202026-10-18%20121824.png)
 
 **API scan request and response**
 
-![API scan](docs/screenshots/Screenshot%202026-10-18%20121918.png)
+![API scan](docs/Screenshots/Screenshot%202026-10-18%20121918.png)
 
 The live-deployment and browser-extension screenshots are in the [project report](docs/Project%20Report.pdf).
 
